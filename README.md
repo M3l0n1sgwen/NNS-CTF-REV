@@ -1,7 +1,3 @@
----
-title: NNS CTF/REV
-
----
 
 Hello mọi người, nay mình sẽ viết write-up cho 3 bài phần rev của giải NNS nhé!
 
